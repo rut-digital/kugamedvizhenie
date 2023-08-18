@@ -2,8 +2,7 @@ import adapter from '@sveltejs/adapter-static';
 
 const config = {
   kit: {
-    adapter: adapter({
-      pages: 'docs'}),
+    adapter: adapter(),
     paths: {
       base: '/kugame2',
     },
