@@ -337,5 +337,7 @@
   }
   .tablet__image {
     width: 100%;
+    object-fit: contain;
+    max-height: 460px;
   }
 </style>
