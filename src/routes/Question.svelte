@@ -181,7 +181,7 @@
   <div class="tablet__element tablet__element_question">
     <div class="tablet__text">{question}</div>
     {#if questionImage}
-      <img src="{questionImage}" alt="" class="tablet__image">
+      <a href="{questionImage}" target="_blank"><img src="{questionImage}" alt="" class="tablet__image"></a>
     {/if}
   </div>
   <div class="tablet__element tablet__element_answer">
