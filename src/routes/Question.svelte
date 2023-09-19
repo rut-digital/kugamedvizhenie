@@ -273,6 +273,7 @@
       question = "Вопросы кончились, игра закончена!";
       answer = "";
       answerOptions = "";
+      questionImage = undefined;
       return;
     }
     const writeQuestion = () => {
