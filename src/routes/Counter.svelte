@@ -40,7 +40,7 @@
 </script>
 
 <div class="tablet">
-  <div class="tablet__coins" style="--image: url({imagePath});"></div>
+  <!-- <div class="tablet__coins" style="--image: url({imagePath});"></div> -->
 
   <div class="tablet__element amount">
     <div class="tablet__elemtitle">
@@ -149,19 +149,19 @@
     background-color: #92C67C;
   }
   .bank__wallet {
-    background: url('../assets/wallet.png');
+    /* background: url('../assets/wallet.png'); */
     background-size: contain;
     width: 100%;
-    height: 200px;
+    /* height: 50px; */
     position: relative;
   }
   .bank__amount {
     font-size: 40px;
     color: #fff;
     font-weight: 600;
-    position: absolute;
-    top: 83px;
-    left: 33px;
+    /* position: absolute; */
+    /* top: 83px; */
+    /* left: 33px; */
     text-align: center;
     width: 113px;
   }
