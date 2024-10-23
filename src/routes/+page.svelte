@@ -21,14 +21,6 @@
         <h3 class="card__comandname">Команда №3</h3>
         <Counter />
       </div>
-      <div class="score__card card">
-        <h3 class="card__comandname">Команда №4</h3>
-        <Counter />
-      </div>
-      <div class="score__card card">
-        <h3 class="card__comandname">Команда №5</h3>
-        <Counter />
-      </div>
     </div>
     <div class="gameboard__question question">
       <div class="question__card card">
